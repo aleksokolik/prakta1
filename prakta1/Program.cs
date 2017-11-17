@@ -30,7 +30,7 @@ namespace Prakta
             tri.Vvod();
             chetire.Vvod();
         }
-     //Ты хуй
+     //Спасибо
         public void VivodD()
         {odin.Vivod();
             dva.Vivod();
